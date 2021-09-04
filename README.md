@@ -1,4 +1,4 @@
-![Logo设计自@HOMLIN](D:\UnU\CRYKERNEL\CRYIMG\Main_Ico_Fixed.png)
+![Logo设计自@HOMLIN](https://img.wenhairu.com/images/2021/09/04/GncyN.png)
 
 ###### This helpful introduction is written by @HOMLIN，Translated into English.  His English skill is bad :-( .
 
