@@ -22,7 +22,7 @@
 
 > Download the CRYKERNEL™17.
 >
-> ##### Here is the link：[CRYKERNEL™17 OF FlipMonster]()
+> ##### Here is the link：[CRYKERNEL™17 OF FlipMonster](https://github.com/HOML1N/CRYKERNEL)
 
 > **_CRYKERNEL support ".ku" file ONLY_ **
 
