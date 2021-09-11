@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## `EXPECT REALESE ON: ` `2022/10/1`
 
-You can use the [editor on GitHub](https://github.com/HOML1N/CRYKERNEL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are still developing the official version.
 
 ### Markdown
 
