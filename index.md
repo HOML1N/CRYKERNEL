@@ -1,4 +1,4 @@
-## `EXPECT REALESE ON: ` `2022/10/1`
+## EXPECT REALESE ON:  `2022/10/1`
 
 We are still developing the official version.
 
